@@ -1,0 +1,20 @@
+*start>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+PR started...
+PPR started...
+Sarea started...
+SR started...
+Mover started...
+
+type-1  entry--2.0 exit--2.0 S--68.9044540435702
+type-2  entry--6.0 exit--7.0 S--67.24142363368695
+type-2  entry--8.0 exit--8.0 S--2.128817355219904
+type-1  entry--9.0 exit--10.0 S--66.56175770294344
+type-1  entry--12.0 exit--13.0 S--2.0879907299252047
+type-1  entry--14.0 exit--14.0 S--52.9471536955909
+type-1  entry--15.0 exit--16.0 S--2.0798979071544683
+type-2  entry--18.0 exit--19.0 S--1.8955517816934973
+
+average All :33.60588085622307
+average Type1 :53.769409369956904
+average Type2 :89.6156822832615
+average Type3 :43.4592384028465
